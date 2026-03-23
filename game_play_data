@@ -1,1 +1,8 @@
 game;on
+localApiURL;https://llm.learnxp.io/api
+apiKey;sk-lm-ZeLKqALd:9ygxfZGM6eEUpBBbtSwx
+model;google_gemma-3-12b-it
+compilerApiUrl;https://wandbox.org/api/compile.json
+embeddingModel;text-embedding-3-small
+temperature;0.2
+maxOutputTokens;150
