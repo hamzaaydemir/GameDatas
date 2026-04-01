@@ -1,5 +1,6 @@
 minVersion;1.2
 game;off
+game;off
 localApiURL;https://llm.learnxp.io/api
 model;google_gemma-3-12b-it
 compilerApiUrl;https://wandbox.org/api/compile.json
