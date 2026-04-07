@@ -1,4 +1,4 @@
-minVersion;3.9
+minVersion;1.9
 game;off
 localApiURL;https://llm.learnxp.io/api
 model;google_gemma-3-12b-it
